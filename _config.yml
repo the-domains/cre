@@ -1,7 +1,7 @@
 name: CRE
 favicon: null
-layout_spectrum: 0.2583
-typography_spectrum: 0.8786
+layout_spectrum: 0.4982
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#2667FF'
     - '#3B28CC'
   brandStrength: 0.5
-  lightness: 0.1577637647278607
-  saturation: 0.7886555036529899
-  rhythmicContrast: 0.05479752249084413
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
