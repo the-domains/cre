@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.linkedin.com/pulse/remember-time-costs-money-ben-dalton-j-d-?trk=prof-post'
 title: 'Remember, Time Costs Money'
-datePublished: '2015-12-19T23:24:25.898Z'
-dateModified: '2015-12-19T23:19:27.873Z'
+datePublished: '2015-12-19T23:25:34.178Z'
+dateModified: '2015-12-19T23:18:52.401Z'
 sourcePath: _posts/2015-12-19-remember-time-costs-money.md
 published: true
 inFeed: true
