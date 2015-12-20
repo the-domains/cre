@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'A simple lease can save and facilitate deal making, increasing the bottom line to both the Landlord and Tenant. '
-datePublished: '2015-12-20T15:58:31.697Z'
-dateModified: '2015-12-20T15:58:11.528Z'
+datePublished: '2015-12-20T15:59:35.346Z'
+dateModified: '2015-12-20T15:59:16.897Z'
 title: Time Costs and Kills Deals
 author: []
 authors: []
