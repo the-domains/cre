@@ -3,25 +3,27 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-20T16:18:55.892Z'
-dateModified: '2015-12-20T16:18:40.810Z'
+datePublished: '2015-12-20T16:26:44.608Z'
+dateModified: '2015-12-20T16:26:36.453Z'
 title: Time Costs Money and Kills Deals
 author: []
+sourcePath: _posts/2015-12-20-time-costs-money-and-kills-deals.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-20-time-costs-money-and-kills-deals.md
-published: true
 url: time-costs-money-and-kills-deals/index.html
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d9ebf71bd2a438026176b9e4e489d9f0cf0874fe.jpg)
+
 Using a simple lease will probably increase the net worth of both landlord and tenant by saving time with lease negotiations. This can easily be demonstrated with two scenarios:
 
 Scenario 1: The tenant and the landlord have finally agreed to essential business terms through a month long back and forth negotiation. So, the terms of the final LOI are incorporated into the actual lease by the Landlord, which is 50 pages long of dense legalese, and another 40 pages of exhibits. The tenant's attorney marks up this extremely pro-landlord lease and sends it back to the landlord's attorney. Only a couple of changes are accepted in this go around. The attorneys keep negotiating, while undoubtedly telling their clients that the other side is  being completely unreasonable and that that the lease, as the other side wants, gives their own side to much liability. All of this back and forth takes an additional 8 weeks until the final lease is signed, if at all. It took three entire months to negotiate the final LOI and lease, with thousands of dollars being paid to the attorneys.
@@ -37,4 +39,3 @@ Make sure to check back later. Coming soon, I will have a post on how details ma
 I hope the discussion above has made it clear why it is worth your wild to have a professional advocate on your behalf. As both a commercial real estate agent and attorney, I can make sure your interests are protected.
 
 If you have any questions or comments, send me an email tobdalton@tigusa.com. Also, if you know anyone looking to buy, sell or lease space in Dallas or the surrounding areas, I do appreciate referrals.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/854191a3-6aa2-44bd-ba36-fe9fde767bbd.jpg)
