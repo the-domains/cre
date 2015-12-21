@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-21T18:48:18.988Z'
-dateModified: '2015-12-21T18:48:12.319Z'
+datePublished: '2015-12-21T18:54:35.426Z'
+dateModified: '2015-12-21T18:54:29.465Z'
 title: Time Costs Money and Kills Deals
 author: []
 sourcePath: _posts/2015-12-20-time-costs-money-and-kills-deals.md
