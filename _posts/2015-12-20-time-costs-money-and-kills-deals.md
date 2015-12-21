@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-21T18:54:35.426Z'
-dateModified: '2015-12-21T18:54:29.465Z'
+datePublished: '2015-12-21T19:06:22.703Z'
+dateModified: '2015-12-21T19:06:15.881Z'
 title: Time Costs Money and Kills Deals
 author: []
 sourcePath: _posts/2015-12-20-time-costs-money-and-kills-deals.md
