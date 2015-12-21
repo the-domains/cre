@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-21T18:52:56.558Z'
-dateModified: '2015-12-21T18:52:43.136Z'
+datePublished: '2015-12-21T19:09:35.307Z'
+dateModified: '2015-12-21T19:09:08.542Z'
 title: Welcome to the Law Office of Benjamin Dalton
 author: []
 authors: []
