@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-20T16:26:44.608Z'
-dateModified: '2015-12-20T16:26:36.453Z'
+datePublished: '2015-12-21T18:45:36.836Z'
+dateModified: '2015-12-21T18:45:31.506Z'
 title: Time Costs Money and Kills Deals
 author: []
 sourcePath: _posts/2015-12-20-time-costs-money-and-kills-deals.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: time-costs-money-and-kills-deals/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d9ebf71bd2a438026176b9e4e489d9f0cf0874fe.jpg)
