@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-21T19:08:21.500Z'
-dateModified: '2015-12-21T19:08:11.747Z'
+description: "No Deal Doesn't Help Anyone's Bank Account"
+datePublished: '2015-12-21T19:12:11.226Z'
+dateModified: '2015-12-21T19:12:05.686Z'
 title: Time Costs Money and Kills Deals
 author: []
 sourcePath: _posts/2015-12-20-time-costs-money-and-kills-deals.md
@@ -19,6 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+url: time-costs-money-and-kills-deals/index.html
 _type: Blurb
 
 ---
